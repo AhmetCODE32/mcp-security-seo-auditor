@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛡️ Seyceri Master Auditor
+# 🛡️ MCP Security SEO Auditor
 
 ### Advanced MCP Security & SEO Intelligence Platform
 
@@ -11,7 +11,7 @@
 
 <br/>
 
-**Seyceri Master Auditor** is an enterprise-grade **Model Context Protocol (MCP)** server that delivers real-time cybersecurity analysis, SEO compliance validation, and intelligent code auditing — all powered by persistent neural memory.
+**MCP Security SEO Auditor** is an enterprise-grade **Model Context Protocol (MCP)** server that delivers real-time cybersecurity analysis, SEO compliance validation, and intelligent code auditing — all powered by persistent neural memory.
 
 <br/>
 
@@ -100,7 +100,7 @@ node index.mjs
 
 ## ⚙️ MCP Configuration
 
-Add Seyceri Master Auditor to your MCP client configuration:
+Add MCP Security SEO Auditor to your MCP client configuration:
 
 ### Cursor IDE
 
@@ -165,7 +165,7 @@ mcp-security-seo-auditor/
 
 ```
 ┌─────────────┐     ┌──────────────────┐     ┌─────────────────┐
-│  MCP Client │────▶│  Seyceri Auditor  │────▶│  Audit Report   │
+│  MCP Client │────▶│   MCP Auditor     │────▶│  Audit Report   │
 │  (Cursor /  │     │                  │     │  (.txt file)    │
 │   Claude)   │     │  ┌────────────┐  │     └─────────────────┘
 └─────────────┘     │  │ Security   │  │
