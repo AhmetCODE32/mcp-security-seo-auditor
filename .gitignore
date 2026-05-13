@@ -1,0 +1,5 @@
+node_modules/
+error_memory.json
+audit_history.json
+last_audit_report.txt
+.DS_Store
